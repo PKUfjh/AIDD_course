@@ -18,3 +18,9 @@ Refer to https://github.com/PKUfjh/progen
 
 ## Run ESM3
 Refer to https://github.com/PKUfjh/esm3
+
+## Run RFDiffusion_AA
+Refer to https://github.com/PKUfjh/rf_diffusion_all_atom
+
+## Run LigandMPNN
+Refer to https://github.com/PKUfjh/LigandMPNN
