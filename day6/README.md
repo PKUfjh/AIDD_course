@@ -10,6 +10,9 @@ Refer to https://github.com/PKUfjh/foldseek
 ## Structure clustering for whole PDB chains
 Refer to https://github.com/PKUfjh/foldseek_pdb
 
+## Train a GPT model and run
+Refer to https://github.com/PKUfjh/nanoGPT
+
 ## Run Progen
 Refer to https://github.com/PKUfjh/progen
 
